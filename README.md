@@ -1,18 +1,18 @@
 # 🏛️ Museum Landing Page
 The Museum Landing Page is a responsive web project that presents a modern and visually appealing interface for a fictional museum. It highlights key sections such as exhibitions, events, and visitor information while emphasising clean design, accessibility, and user-friendly navigation. The project's main goal is to demonstrate front-end development skills, including layout creation, responsive design, and attention to visual detail.
 
-🔗 Live Preview
+### 🔗 Live Preview
 
   [Visit the live site](https://nataliianudyk.github.io/Museum-landing-page/)
 
 
-🎨 Design Reference
+### 🎨 Design Reference
 
 Based on a modern museum website layout concept, focusing on minimalism, readability, and smooth visual flow.
   
   [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
 
-💻 Technologies Used
+## 💻 Technologies Used
 
 - HTML5 – for semantic and structured content
 
@@ -20,7 +20,7 @@ Based on a modern museum website layout concept, focusing on minimalism, readabi
 
 - Git & GitHub – for version control and project hosting
 
-✨ Features
+## ✨ Features
 
 - Responsive design optimised for desktop, tablet, and mobile
 
